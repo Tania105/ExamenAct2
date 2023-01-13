@@ -18,7 +18,7 @@ public class CalculadoraED {
     static int numero1 = 0, numero2 = 0; //Variables de entrada
 
     public static void main(String[] args) {
-        System.out.println("Hola, bienvenido!");
+        System.out.println("Hola, bienvenidoo!");
         while (opcion != 0) {
             //Try catch para evitar que el programa termine si hay un error
             try {
