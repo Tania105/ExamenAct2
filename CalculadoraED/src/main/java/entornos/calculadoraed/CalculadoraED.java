@@ -14,8 +14,8 @@ import java.util.Scanner;
 public class CalculadoraED {
     
     static Scanner scanner = new Scanner(System.in);
-    static int opcion = -1; //opción del menú
-    static int numero1 = 0, numero2 = 0; //Variables de entrada
+    static float opcion = -1; //opción del menú
+    static float numero1 = 0, numero2 = 0; //Variables de entrada
 
     public static void main(String[] args) {
         System.out.println("Hola, bienvenidoo!");
